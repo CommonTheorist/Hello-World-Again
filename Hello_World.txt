@@ -1,0 +1,3 @@
+<h1>Hello HTML</h1>
+<p>Stoked on what I've been learning through 'A smarter wy to learn.'<br>
+It's a dorky name, but I've been enjoying it.</p>
