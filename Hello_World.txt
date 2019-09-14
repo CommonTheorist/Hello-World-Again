@@ -1,3 +1,5 @@
 <h1>Hello HTML</h1>
 <p>Stoked on what I've been learning through 'A smarter wy to learn.'<br>
 It's a dorky name, but I've been enjoying it.</p>
+<h3>Can't wait for CSS</h3>
+<p>CSS is next. Then java script. Then I'll make the jump to Python</p>
