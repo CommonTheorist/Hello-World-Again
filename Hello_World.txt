@@ -6,3 +6,4 @@ It's a dorky name, but I've been enjoying it.</p>
 <h5>Python as a career choice</h5>
 <p>So, it seems like python could be the better career option over javascript.<br>
 Although, there are many career options in tech and it doesn't have to be directly related to programming per se.</p>
+<h6> Html is a rad way to start</h6>
